@@ -1,10 +1,10 @@
-# 🧑🏻‍💻Antonio Jefferson
+# Jefferson Cardoso
 
 
 **`Desenvolvedor Iniciante`**
 
 
-Me chamo Antonio Jefferson,  sou natural do Piaui. Cursando programação
+Me chamo Jefferson Cardoso,  sou natural do Piaui. Cursando programação
 
 
 <p align="left">
