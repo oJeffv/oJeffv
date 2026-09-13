@@ -33,9 +33,8 @@ Me chamo Jefferson Cardoso, estou cursando Engenharia de Software na Estácio e 
 
 ---
 
-## 🚀 Minhas Habilidades (Tech Stack)
+## 🚀 Habilidades e Linguagens
 
-Abaixo estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
 <img 
     align="left" 
     alt="HTML"
