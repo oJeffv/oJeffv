@@ -1,6 +1,5 @@
 # Bem Vindo! 👨‍💻
-**`Desenvolvedor Iniciante`**
-Me chamo Jefferson Cardoso,  sou natural do Piaui. Cursando programação
+Me chamo Jefferson Cardoso, estou cursando Engenharia de Software na Estácio e possuo 3 anos de SENAI no curso de Técnico de Informática para a Internet.
 <p align="left">
     <a href="https://www.youtube.com/@Jeffersoncard_code?sub_confirmation=1">
         <img 
@@ -33,6 +32,7 @@ Me chamo Jefferson Cardoso,  sou natural do Piaui. Cursando programação
 </p>
 
 ---
+
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
@@ -68,6 +68,7 @@ Me chamo Jefferson Cardoso,  sou natural do Piaui. Cursando programação
 />
 
 ---
+
 ## 📫 Conecte-se comigo
 
 <p align="left">
