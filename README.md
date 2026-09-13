@@ -4,7 +4,7 @@ Me chamo Jefferson Cardoso, estou cursando Engenharia de Software na Estácio e 
     <a href="https://www.youtube.com/@Jeffersoncard_code?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            title="Inscreva-se" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCuU3DxwEyDzpNakeYeXQv6w?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
