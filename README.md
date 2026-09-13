@@ -31,6 +31,8 @@ Me chamo Jefferson Cardoso, estou cursando Engenharia de Software na Estácio e 
     </a>
 </p>
 
+---
+
 ## 📫 Conecte-se comigo
 
 
