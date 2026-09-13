@@ -31,6 +31,12 @@ Me chamo Jefferson Cardoso, estou cursando Engenharia de Software na Estácio e 
     </a>
 </p>
 
+## 📫 Conecte-se comigo
+
+
+<p align="left">
+<a href="https://www.linkedin.com/in/jefferson-cardoso-298770392/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jefferson-cardoso-linkedin" height="30" width="40" /></a>
+
 ---
 
 ## 🚀 Habilidades e Linguagens
@@ -67,11 +73,3 @@ Me chamo Jefferson Cardoso, estou cursando Engenharia de Software na Estácio e 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
----
-
-## 📫 Conecte-se comigo
-
-
-<p align="left">
-<a href="https://www.linkedin.com/in/jefferson-cardoso-298770392/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jefferson-cardoso-linkedin" height="30" width="40" /></a>
