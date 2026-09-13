@@ -1,27 +1,7 @@
 # Bem Vindo! 👨‍💻
 Me chamo Jefferson Cardoso, estou cursando Engenharia de Software na Estácio e possuo 3 anos de SENAI no curso de Técnico de Informática para a Internet.
-<p align="left">
-    <a href="https://www.youtube.com/@Jeffersoncard_code?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCuU3DxwEyDzpNakeYeXQv6w?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@Jeffersoncard_code">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCuU3DxwEyDzpNakeYeXQv6w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    <a href="https://github.com/oJeffv?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/oJeffv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+
+Tenho interesse na área de tecnologia e desenvolvimento de software, buscando constantemente aprimorar meus conhecimentos e transformar o que aprendo em projetos práticos. Atualmente, estou construindo minha experiência principalmente em desenvolvimento web e programação, enquanto exploro diferentes áreas da tecnologia e desenvolvo minha base como profissional.
 
 ---
 
