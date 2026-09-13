@@ -36,12 +36,38 @@ Me chamo Jefferson Cardoso, estou cursando Engenharia de Software na Estácio e 
 ## 🚀 Minhas Habilidades (Tech Stack)
 
 Abaixo estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
-<p>
-  <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=red" />
-  <img src="https://img.shields.io/badge/Python-4483b4?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/NodeJS-1e2427?style=for-the-badge&logo=nodedotjs&logoColor=green" />
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    />
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
 ---
 
